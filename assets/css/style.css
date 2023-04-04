@@ -1,0 +1,21 @@
+#container{
+    width: 50%;
+    margin: auto;
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: lightgoldenrodyellow;
+}
+
+ul{
+    margin: 0;
+    padding: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+h1{
+    border-bottom: 1px solid orange;
+    margin-bottom: 0;
+}
